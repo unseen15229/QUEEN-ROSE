@@ -1,5 +1,7 @@
-# Talkbot
+# QUEEN ROSE
 Only for educational purposes only 🤖
-https://i.imgur.com/qG0i8eX.jpeg file
-markdown
-![My Image](https://i.imgur.com/qG0i8eX.jpeg file)
+
+# A Powerful bot Developed by Saint Kuda 😘
+<img src="https://i.imgur.com/qG0i8eX.jpeg file"/>
+
+Don't Forget to STAR 🌟 AND FORK MY REPO
