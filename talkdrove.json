@@ -1,0 +1,25 @@
+{
+  "bot-name": "QUEEN-MD",
+  "description": " A sophisticated wa-bot developed by Saint Kuda ",
+  "logo": "https://i.imgur.com/qG0i8eX.jpeg",
+  "keywords": ["bot"],
+  "documentation-link": "https://session.talkdrove.com",
+  "owner-verification": "mhazokkuda@gmail.com",
+  "env": {
+    "SESSION_ID": {
+      "description": "Put session id",
+      "value": "",
+      "required": true
+    },
+    "PREFIX": {
+      "description": "Bot command prefix, (e.g, . , ! @ etc",
+      "value": ".",
+      "required": true  
+    },
+    "PREMIUM_USERS": {
+      "description": "premium users",
+      "value": "263782333811**",
+      "required": false
+    }
+  }
+}
