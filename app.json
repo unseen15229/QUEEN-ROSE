@@ -1,8 +1,8 @@
 {
   "name": "QUEEN-ROSE-V1",
   "description": "A WhatsApp Bot Created by saint Kuda",
-  "logo": "https://i.ibb.co/jk0ynvbn/7a8c4b5b617fa11a1e9a61190f427546.jpg",
-  "keywords": ["bot", "whatsapp", "baileys", "javascript", "elitepro"],
+  "logo": "https://i.imgur.com/qG0i8eX.jpeg",
+  "keywords": ["bot", "whatsapp", "baileys", "javascript", "Queen"],
   "success_url": "/",
   "stack": "heroku-24",
   "env": {
