@@ -1,0 +1,12 @@
+# Exported from Render on 2025-09-22T17:29:04Z
+version: "1"
+services:
+- type: web
+  name: QUEEN-ROSE
+  runtime: node
+  repo: https://github.com/unseen15229/QUEEN-ROSE
+  plan: free
+  region: oregon
+  buildCommand: yarn install
+  startCommand: node index.js
+  autoDeployTrigger: commit
